@@ -31,8 +31,8 @@
 <img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=white" />
 <img align="right" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&color=white" />
 
-- **KahootSolver**
-🔒 Beta Testing
+- **KahootSolver**\
+🔒 Beta Testing\
 📎 Not yet
 
 
@@ -41,8 +41,8 @@
 <img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=white" />
 <img align="right" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&color=white" />
 
-- **MechaBot**
-🔓 Public
+- **MechaBot**\
+🔓 Public\
 📎 <span>https://</span>mechabot&#46;xyz
 
 
@@ -51,8 +51,8 @@
 <img align="right" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&color=white" />
 <img align="right" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&color=white" />
 
-- **Klikker**
-🔒 Private
+- **Klikker**\
+🔒 Private\
 🖥 Terminal
 
 
@@ -60,32 +60,32 @@
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=white" />
 <img align="right" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&color=white" />
 
-- **Sugar&#46;ly**
-🔒 Beta Testing
+- **Sugar&#46;ly**\
+🔒 Beta Testing\
 📱 IOS
 
 
 
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=white" />
 
-- **BeterSpellen**
-🔒 Private
+- **BeterSpellen**\
+🔒 Private\
 🖥 Terminal
 
 
 
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=white" />
 
-- **Discord RPC**
-🔏 Open Source
+- **Discord RPC**\
+🔏 Open Source\
 🖥 Terminal
 
 
 
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=white" />
 
-- **Kunskapsskolan**
-🔏 Open Source
+- **Kunskapsskolan**\
+🔏 Open Source\
 🖥 Terminal
 
 </details>
